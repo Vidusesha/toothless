@@ -11,6 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+!["Toothless"](https://ctl.s6img.com/society6/img/hzSniKWb3JANQpKRE_hJnKiQdTE/w_700/canvas/~artwork/s6-0049/a/21398737_6103354/~~/chibi-toothless-canvas.jpg?wait=0&attempt=0)
+
 # Header 1
 ## Header 2
 ### Header 3
