@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+![Toothless](https://ctl.s6img.com/society6/img/hzSniKWb3JANQpKRE_hJnKiQdTE/w_700/canvas/~artwork/s6-0049/a/21398737_6103354/~~/chibi-toothless-canvas.jpg?wait=0&attempt=0)
+
 You can use the [editor on GitHub](https://github.com/Vidusesha/toothless/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -10,8 +12,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-!["Toothless"](https://ctl.s6img.com/society6/img/hzSniKWb3JANQpKRE_hJnKiQdTE/w_700/canvas/~artwork/s6-0049/a/21398737_6103354/~~/chibi-toothless-canvas.jpg?wait=0&attempt=0)
 
 # Header 1
 ## Header 2
